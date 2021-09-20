@@ -1,7 +1,7 @@
-Role Name
+SoftEther-vpn
 =========
 
-Installing Docker and Running SoftEtherVPN Container with Ansible (OpenVpn, L2TP, softether)
+Installing Docker with ansible and Running SoftEtherVPN Container with Ansible (OpenVpn, L2TP, softether)
 
 Requirements
 ------------
