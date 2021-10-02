@@ -16,6 +16,11 @@ Start Running plabooks
 ```
 $ git clone https://github.com/SinaShirparvar/softvpn.git
 ```
+Move play.yml to current directory, then runnig softvpn role.
+```
+$ mv softvpn/play.yml ../
+```
+
 ```
 $ ansilbe-playbook play.yml
 ```
