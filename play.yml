@@ -1,0 +1,7 @@
+---
+#Running softvp role.
+# move play.yml file into ../softvpn then run and enjoy it :)
+  - hosts: all
+    roles:
+      - softvpn
+  
